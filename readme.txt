@@ -1,6 +1,6 @@
 === WP Simple FAQ ===
 Contributors: happyplugins
-Tags: FAQ, Simple FAQ, FAQs, Frequently asked Questions, Q&A
+Tags: FAQ, Simple FAQ, FAQs, Frequently asked Questions, Q&A, faq list, faq submission, FAQ widget, frequently asked questions, knowledgebase
 Donate link: http://happyplugins.com/wp-simple-faq-lite
 Requires at least: 3.0.1
 Tested up to: 3.8
@@ -14,7 +14,15 @@ Add FAQ to your website with simple custom post type. fastest loading FAQ plugin
 
 Add FAQ to your website with simple custom post type. fastest loading FAQ plugin on the the WordPress directory.
 
-This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
+Although you can find many FAQ plugins on the WordPress directory WP Simple FAQ is designed with only thing in mind, speed. 
+
+We have used inside WP Simple only the regular WordPress classes, this has created an FAQ plugin with loading footprint of less than 4k.
+
+We are using WP Simple FAQ on website with thousands of users per day. 
+
+In this kind of websites speed is the most important aspect.
+
+This Plugin is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
 
 
 
