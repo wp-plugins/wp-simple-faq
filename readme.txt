@@ -1,7 +1,7 @@
 === WP Simple FAQ ===
 Contributors: happyplugins
 Tags: FAQ, Simple FAQ, FAQs, Frequently asked Questions, Q&A, faq list, faq submission, FAQ widget, frequently asked questions, knowledgebase
-Donate link: http://happyplugins.com/wp-simple-faq-lite
+Donate link: http://blog.happyplugins.com/wp-simple-faq-lite
 Requires at least: 3.0.1
 Tested up to: 3.8
 Stable tag: 1.4
@@ -33,7 +33,7 @@ This Plugin is maintained by <a href="http://happyplugins.com">HappyPlugins</a> 
 == Screenshots ==
 
 No screenshot available, you can find more information at:
-http://happyplugins.com/wp-simple-faq-lite
+http://blog.happyplugins.com/wp-simple-faq-lite
 
 
 
@@ -51,7 +51,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the Delete Multiple Themes? = 
-You can found more information at: <a href="http://happyplugins.com/wp-simple-faq-lite">HappyPlugin - WP Simple FAQ</a>
+You can found more information at: <a href="http://blog.happyplugins.com/wp-simple-faq-lite">HappyPlugin - WP Simple FAQ</a>
 
 
 == Changelog ==
