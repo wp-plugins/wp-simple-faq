@@ -4,7 +4,7 @@ Tags: FAQ, Simple FAQ, FAQs, Frequently asked Questions, Q&A, faq list, faq subm
 Donate link: http://happyplugins.com/downloads/wp-simple-faq-lite/
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 1.4
+Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,11 +55,15 @@ You can found more information at: <a href="http://happyplugins.com/downloads/wp
 
 
 == Changelog ==
+= 1.4.1 =
+Fix minor issues with wordpress 3.8
 = 1.4 =
 * Initial release that is distributed for FREE.
 
 
 
 == Upgrade Notice ==
+= 1.4.1 =
+Fix minor issues with wordpress 3.8
 = 1.4 =
 * Initial release that distributed for FREE.
