@@ -22,7 +22,22 @@ We are using WP Simple FAQ on website with thousands of users per day.
 
 In this kind of websites speed is the most important aspect.
 
-This Plugin is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
+WP Simple FAQ is also avaible to download from <a href="http://happyplugins.com">HappyPlugins</a><br>
+
+
+WP SImple FAQ - Pro - Comming Soon...
+
+The pro version of WP SImple Faq will include all the features that WP Simple FAQ have and much more. 
+
+Here are just few features that will embeded in WP Simple FAQ - Pro version: 
+
+* Cattegories support - You will be able to create different FAQ categories and tags.<br>
+* Smart Shortcode that enable you to insert FAQ that are only relevent to a specific category or tag.<br>
+* CSS Support for custom design you FAQ look and view.<br>
+
+WP Simple FAQ - Pro will still keep his main feature and it's to be the lightest FAQ WordPress Plugin.<br>
+
+<a href="http://happyplugins.com/downloads/wp-simple-faq-pro">WP Simple FAQ</a>
 
 
 
