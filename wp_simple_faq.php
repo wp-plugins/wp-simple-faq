@@ -3,7 +3,7 @@
 Plugin Name: WP Simple FAQ
 Plugin URI: http://happyplugins.com/wp-simple-faq
 Description:Create Accordion based WordPress FAQ. 
-Version: 1.4
+Version: 1.4.2
 Author: HappyPlugins
 Author URI: http://happyplugins.com
 License: GPL2
